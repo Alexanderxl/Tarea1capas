@@ -1,0 +1,10 @@
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\bin\Debug\tarea1.exe.config
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\bin\Debug\tarea1.exe
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\bin\Debug\tarea1.pdb
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\obj\Debug\tarea1.csproj.AssemblyReference.cache
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\obj\Debug\tarea1.Form1.resources
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\obj\Debug\tarea1.Properties.Resources.resources
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\obj\Debug\tarea1.csproj.GenerateResource.cache
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\obj\Debug\tarea1.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\obj\Debug\tarea1.exe
+C:\Users\Luis Alexander\source\repos\tarea1\tarea1\obj\Debug\tarea1.pdb
